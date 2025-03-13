@@ -115,7 +115,7 @@ Antes de iniciar, certifique-se de que você já tem instalado:
 
 6. **Criação dos Triggers**
 
-   ***Criar na tabela labels***
+   ***Criar na tabela labels (Botão direito em triggers e selecionar QUERRY TOOLS)***
    
       **Trigger para inserções:**
       
