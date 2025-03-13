@@ -67,7 +67,7 @@ Antes de iniciar, certifique-se de que você já tem instalado:
 
 - Foi notado que os ID da tabela "labels" não condizia com os id ta tabela "tags" sendo assim criei algumas funções e triggers que corrigem esse problema.
 
-5. **Criação das Funções de Replicação, Exclusão e Atualização**
+5. **Criação das Funções de Replicação, Exclusão e Atualização (Botão direito em Trigger Functions e selecionar QUERRY TOOLS)**
 
    ***Cria na raiz do banco de dados***
    
