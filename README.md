@@ -28,7 +28,7 @@ Antes de iniciar, certifique-se de que você já tem instalado:
 ### Passo 2: Adicionar Colunas no Banco de Dados do ChatWoot
 
 1. **Acesse o Banco de Dados**: Use o pgAdmin ou outro software de sua preferência para acessar o banco de dados do ChatWoot.
-2. **Adicionar Coluna na Tabela Accounts**:
+2. **Adicionar Coluna na Tabela Accounts(Botão direito em Tables e Selecionar Querry Tools)**:
    - Execute o seguinte comando SQL para adicionar a coluna `limite_disparo`:
      ```sql
      ALTER TABLE accounts
